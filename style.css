@@ -1,0 +1,48 @@
+<style>
+    .font-geist { font-family: 'Geist', sans-serif !important; }
+    .font-roboto { font-family: 'Roboto', sans-serif !important; }
+    .font-montserrat { font-family: 'Montserrat', sans-serif !important; }
+    .font-poppins { font-family: 'Poppins', sans-serif !important; }
+    .font-playfair { font-family: 'Playfair Display', serif !important; }
+    .font-instrument-serif { font-family: 'Instrument Serif', serif !important; }
+    .font-merriweather { font-family: 'Merriweather', serif !important; }
+    .font-bricolage { font-family: 'Bricolage Grotesque', sans-serif !important; }
+    .font-jakarta { font-family: 'Plus Jakarta Sans', sans-serif !important; }
+    .font-manrope { font-family: 'Manrope', sans-serif !important; }
+    .font-space-grotesk { font-family: 'Space Grotesk', sans-serif !important; }
+    .font-work-sans { font-family: 'Work Sans', sans-serif !important; }
+    .font-pt-serif { font-family: 'PT Serif', serif !important; }
+    .font-geist-mono { font-family: 'Geist Mono', monospace !important; }
+    .font-space-mono { font-family: 'Space Mono', monospace !important; }
+    .font-quicksand { font-family: 'Quicksand', sans-serif !important; }
+    .font-nunito { font-family: 'Nunito', sans-serif !important; }
+    body { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+    
+    @keyframes circle-1 { 
+        33% { transform: translate(0px, 16px) translateZ(0); } 
+        66% { transform: translate(12px, 64px) translateZ(0); } 
+    }
+    @keyframes circle-2 { 
+        33% { transform: translate(80px, -10px) translateZ(0); } 
+        66% { transform: translate(72px, -48px) translateZ(0); } 
+    }
+    @keyframes circle-3 { 
+        33% { transform: translate(20px, 12px) translateZ(0); } 
+        66% { transform: translate(12px, 4px) translateZ(0); } 
+    }
+    @keyframes circle-4 { 
+        33% { transform: translate(76px, -12px) translateZ(0); } 
+        66% { transform: translate(112px, -8px) translateZ(0); } 
+    }
+    @keyframes circle-5 { 
+        33% { transform: translate(84px, 28px) translateZ(0); } 
+        66% { transform: translate(40px, -32px) translateZ(0); } 
+    }
+    @keyframes circle-6 { 
+        33% { transform: translate(28px, -16px) translateZ(0); } 
+        66% { transform: translate(76px, -56px) translateZ(0); } 
+    }
+    #aura-emdxwx49k:hover { 
+        --duration: 1400ms; 
+    }
+</style>
